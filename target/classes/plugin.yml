@@ -1,0 +1,9 @@
+name: JumpNBump
+main: com.sanjay900.jnb.jnb
+version: 0.1
+depend: [ProtocolLib, Citizens]
+commands:
+   jnb:
+      description: Wonderland commands
+      aliases: [jumpandbump, jumpnbump]
+      usage: /jnb
